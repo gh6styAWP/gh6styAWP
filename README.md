@@ -1,6 +1,6 @@
 ## BIO 
 
-Peter the Great St. Petersburg Polytechnic University
+Education: Peter the Great St. Petersburg Polytechnic University
 
 Here are some ideas to get you started:
 
