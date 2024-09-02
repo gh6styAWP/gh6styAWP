@@ -41,9 +41,10 @@ I am a software engineer from Russia, St. Petersburg.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh6styAWP&theme=neon-dark&exclude_days=Sun)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh6styAWP&theme=aura_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh6styAWP&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh6styAWP&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gh6styAWP&theme=aura_dark&utcOffset=8)
 
 </div>
 
