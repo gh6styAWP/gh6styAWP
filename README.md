@@ -41,13 +41,16 @@ I am a software engineer from Russia, St. Petersburg.
 ---
 
 ### :fire: My Stats :
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66f43679c45e253cb0602ea3?variant=dark)](https://roadmap.sh)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh6styAWP&theme=aura_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh6styAWP&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gh6styAWP&theme=aura_dark&utcOffset=8)
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66f43679c45e253cb0602ea3?variant=dark)](https://roadmap.sh)
+
 
 </div>
 
