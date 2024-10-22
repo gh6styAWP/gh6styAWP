@@ -42,7 +42,7 @@ I am a software engineer from Russia, St. Petersburg.
 
 ### :fire: My Stats :
 
-
+[![roadmap.sh](https://roadmap.sh/card/wide/66f43679c45e253cb0602ea3?variant=dark&roadmaps=cpp%2Ccomputer-science%2Cdatastructures-and-algorithms%2Cgit-github)](https://roadmap.sh)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh6styAWP&theme=aura_dark)
 
