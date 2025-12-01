@@ -40,18 +40,6 @@ I am a software engineer from Russia, St. Petersburg.
 
 ---
 
-### :fire: My Stats :
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gh6styAWP&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gh6styAWP&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gh6styAWP&theme=aura_dark&utcOffset=8)
-
-
-
-
 </div>
 
 
